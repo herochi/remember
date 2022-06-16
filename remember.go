@@ -16,5 +16,5 @@ func Remember(name string) string {
 }
 
 func Version() string {
-	return "this is the version 2.0.0"
+	return "this is the version 3.0.0"
 }
